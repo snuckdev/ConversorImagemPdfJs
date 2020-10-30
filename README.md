@@ -13,6 +13,7 @@ encriptação.
 
 - [yargs](https://github.com/yargs/yargs)
 - [pdfkit](http://http://pdfkit.org/)
+- [bcryptjs](https://github.com/dcodeIO/bcrypt.js)
 - [Node.js](https://github.com/nodejs/node)
 
 ## 📦Mesclando imagens e encriptando (opcional)
